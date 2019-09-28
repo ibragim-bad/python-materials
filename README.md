@@ -1,8 +1,6 @@
 # python-materials
 Материалы и ресурсы для обучения python
 
-## курсы по python
-https://stepik.org/course/67/syllabus Базовый курс по питону 
 
 ## базовые тетрадки по python
 
@@ -14,6 +12,9 @@ https://colab.research.google.com/drive/1QjZH4cTq0UvudHge6vFjcWGQOTlZPbLh#scroll
 
 Тетрадки взяты из курса по машинному обучению https://www.dlschool.org/main-track
 
+
+## курсы по python
+https://stepik.org/course/67/syllabus Базовый курс по питону 
 
 
 ## как сделать бота telegram
