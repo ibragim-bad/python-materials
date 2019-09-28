@@ -12,7 +12,7 @@ https://colab.research.google.com/drive/1HxeGabgVndaxiEWLN2KN8ap3hszPfIfe#scroll
 
 https://colab.research.google.com/drive/1QjZH4cTq0UvudHge6vFjcWGQOTlZPbLh#scrollTo=uugRKJebGw4e
 
-это материалы из курса по машинному обучению https://www.dlschool.org/main-track
+Тетрадки взяты из курса по машинному обучению https://www.dlschool.org/main-track
 
 
 
